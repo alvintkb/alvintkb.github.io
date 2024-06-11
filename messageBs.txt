@@ -12,8 +12,11 @@ https://maps.app.goo.gl/cKbZfNPSBGSAJzTt7
 Sila hubungi saya atau whatsapp saya apabila anda akan datang,
 Kami berharap dapat berjumpa anda di sana tidak lama lagi!`
 
-@si2|Hai semua,
-Terima kasih atas pertanyaan terkini anda! Saya menghargai minat anda dalam projek kami. Untuk memberikan anda semua butiran, saya telah menyertakan pautan kepada dokumen yang lengkap yang meliputi segala yang perlu anda ketahui tentang hartanah yang tersedia, termasuk pelan lantai, harga, kemudahan, dan banyak lagi.
+@si2|Hai Encik,
+Terima kasih atas pertanyaan terkini anda! Saya menghargai minat anda dalam projek kami. 
+Untuk memberikan anda semua butiran, 
+saya telah menyertakan pautan kepada dokumen yang lengkap yang meliputi segala yang perlu anda ketahui tentang hartanah yang tersedia, termasuk pelan lantai,
+harga, kemudahan, dan banyak lagi.
 Jika anda mempunyai sebarang pertanyaan lanjut atau memerlukan maklumat tambahan, jangan ragu untuk menghubungi kami.
 Untuk membantu kami menyediakan anda dengan kemas kini yang relevan:
 $plink

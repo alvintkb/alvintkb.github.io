@@ -1,5 +1,5 @@
 @si1|Hi! This is Alvin Tan from Victova Real Estate. Thank you for your recent inquiry through our Facebook advertisement regarding the Semenyih "Springvale" terrace house. I’m here to assist you with any questions you may have. If you are available this weekend, I’d be happy to meet you at our showroom to provide further assistance and show you the property. Could we schedule a meeting this Saturday or Sunday at a time that is convenient for you?
-lc1,We look forward to welcoming you to our showroom and project location tomorrow at: 
+lc1,We look forward to welcoming you to our showroom and project location this Saturday at: 
 Lot 46701, Jalan Broga, Semenyih, 43500 Kajang, Selangor
 For your convenience, you can find us on Google Maps and Waze:
 
@@ -12,8 +12,11 @@ https://maps.app.goo.gl/cKbZfNPSBGSAJzTt7
 Please call me or whatapp me when you are you coming, 
 We hope to see you there soon!` 
 
-@si2|Hi everyone,
-Thank you for your recent inquiries! I appreciate your interest in our project. To provide you with all the details, I've included a link to a comprehensive document that covers everything you need to know about the properties available, including floor plans, pricing, amenities, and more.
+@si2|Hi Sir,
+Thank you for your recent inquiries! I appreciate your interest in our project. 
+To provide you with all the details, 
+I've included a link to a comprehensive document that covers everything you need to know about the properties available,
+including floor plans, pricing, amenities, and more.
 If you have any further questions or need additional information, please don't hesitate to reach out.
 To help us better serve you with relevant updates:
 $plink
@@ -47,3 +50,61 @@ https://maps.app.goo.gl/cKbZfNPSBGSAJzTt7
 
 If you are coming please whatapp me, so that I could schedule my time for you, 
 We hope to see you there soon!
+@r1|We're thrilled to extend an invitation to you, for coming to our showroom event this upcoming Saturday! Below is the location of the showroom and project site. Feel free to give me a call or send a whatapp message, 
+ to let me know you are coming so that I could assist you during your visit. Looking forward to seeing you there!"
+
+Springvale Semenyih location
+Waze
+https://waze.com/ul/hw282vcwv2
+Google Maps
+https://maps.app.goo.gl/cKbZfNPSBGSAJzTt7
+@si3|Hi Sir,
+I am pleased to provide you with further details regarding the project you inquired about. If you remain interested in this exceptional landed property, please do not hesitate to call or message me at your convenience.
+By clicking on the link below, you can access more information about the Springvale Terrace House in Semenyih. This includes detailed specifications, features, and high-quality images of the property.
+
+$plink
+Reply with "1" if you would like to continue receiving updates.
+Reply with "0" if you prefer to stop receiving messages from us.
+Looking forward to assisting you further!
+@st1|Good [morning/afternoon/evening]!
+
+Are you looking for the perfect blend of comfort, connectivity, and tranquility? Look no further! Our Terrace Homes offer everything you desire in a dream home and more.
+
+Imagine waking up every day in a serene environment, surrounded by nature, yet just minutes away from the convenience of the city. This is not just a home; it’s your personal haven.
+
+Why choose our Terrace Homes?
+
+FREEHOLD: Enjoy complete ownership and peace of mind.
+Spacious Living: 4 bedrooms and 3 bathrooms, perfect for families of all sizes.
+Outdoor Living: Multiple parks within the community for relaxation and recreation.
+Security: 24-hour gated and guarded community ensures your safety and privacy.
+Private Garden: Your own slice of nature, right at your doorstep.
+Modern Design: Stylish and contemporary design that meets your aesthetic standards.
+Natural Environment: Live amidst greenery and fresh air.
+Unmatched Connectivity:
+
+Our location provides easy access to major highways:
+
+Lekas Highway
+Cheras Kajang Highway
+Silk Highway
+SKVE
+Nearby Amenities:
+
+Shopping and grocery needs are well catered to with:
+
+Tesco Semenyih
+IOI City Mall
+The Mines
+Healthcare facilities are just a stone's throw away:
+
+Hospital Kajang
+Hospital Serdang
+Top-notch educational institutions are within easy reach:
+
+University Nottingham Malaysia
+Don't miss out on this incredible opportunity! REGISTER now to secure your spot and take advantage of our early bird deal.
+
+Your dream home awaits! Act now to make this vision a reality.
+
+Thank you, and I look forward to helping you find your perfect home
