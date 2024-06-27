@@ -73,7 +73,7 @@ Google Maps
 https://maps.app.goo.gl/cKbZfNPSBGSAJzTt7
 ______________________________________________________________________________________
 @ea1|Hi @name,
-Following our conversation today, I am sending you information on the Acadia project,
+Following up with our recent conversation, I am sending you information on the Acadia project,
  which offers fantastic investment opportunities. Please click the link below for more details.
 
 $plink
@@ -130,3 +130,29 @@ Don't miss out on this incredible opportunity! REGISTER now to secure your spot 
 Your dream home awaits! Act now to make this vision a reality.
 
 Thank you, and I look forward to helping you find your perfect home
+___________________________________________________
+@ea2|Hi @name, I have been trying to reach you regarding your property inquiries but have been unable to connect.
+
+Please let me know how you would like to proceed:
+
+Reply with 1 if you would like assistance in acquiring a property.
+Reply with 0 if you are no longer interested.
+Thank you for your time, and I look forward to your response.
+$plink
+
+___________________________________________________
+@ea3|This is the link regard to the property you inquired about.
+$plink
+Please select your preferred method of communication:
+
+Enter 1 to use WhatsApp.
+Enter 2 to be contacted by phone.
+Enter 0 if you prefer not to be contacted.
+___________________________________________________
+@ea4|Oops! I apologize, that was the wrong link. Here's the correct one:
+$plink
+Please select your preferred method of communication:
+
+Enter 1 to use WhatsApp.
+Enter 2 to be contacted by phone.
+Enter 0 if you prefer not to be contacted.

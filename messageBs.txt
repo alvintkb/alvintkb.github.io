@@ -59,3 +59,43 @@ https://maps.app.goo.gl/cKbZfNPSBGSAJzTt7
 
 Jika anda datang, sila whatsapp saya, supaya saya dapat menjadualkan masa saya untuk anda,
 Kami berharap dapat berjumpa anda di sana tidak lama lagi!
+_________________________________
+@ba1|Hi @name,
+Mengikuti percakapan kita baru-baru ini, saya mengirimkan informasi tentang proyek Acadia, yang menawarkan peluang investasi fantastis. Silakan klik tautan di bawah ini untuk detail lebih lanjut.
+
+$plink"
+____________________
+@ba2|Salam Sejahtera Tuan,
+
+Saya berharap Tuan sihat sejahtera. Saya telah cuba menghubungi Tuan berkenaan pertanyaan hartanah anda tetapi tidak berjaya.
+
+Harap Tuan dapat maklumkan cara untuk meneruskan:
+
+Balas dengan 1 jika Tuan ingin bantuan saya dalam mendapatkan hartanah.
+Balas dengan 0 jika Tuan tidak lagi berminat.
+Terima kasih atas perhatian Tuan, dan saya berharap untuk mendengar balasan dari Tuan.
+$plink
+___________________________________________________
+@ba3|Ini adalah pautan berkaitan dengan hartanah yang anda telah bertanya
+$plink
+Sila pilih kaedah komunikasi pilihan anda:
+
+Taip 1 untuk menggunakan WhatsApp.
+Taip 2 untuk dihubungi melalui telefon.
+Taip 0 jika anda tidak mahu dihubungi.
+
+Nombor telefon saya ialah 01126355988
+____________________________________________
+@ba4|Maaf, silap pautan! Ini pautan yang betul
+$plink
+Sila pilih kaedah komunikasi pilihan anda:
+
+Taip 1 untuk menggunakan WhatsApp.
+Taip 2 untuk dihubungi melalui telefon.
+Taip 0 jika anda tidak mahu dihubungi.
+
+Nombor telefon saya ialah 01126355988
+_________________________________
+@bend|end
+
+
