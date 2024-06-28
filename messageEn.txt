@@ -72,14 +72,6 @@ https://waze.com/ul/hw282vcwv2
 Google Maps
 https://maps.app.goo.gl/cKbZfNPSBGSAJzTt7
 ______________________________________________________________________________________
-@ea1|Hi @name,
-Following up with our recent conversation, I am sending you information on the Acadia project,
- which offers fantastic investment opportunities. Please click the link below for more details.
-
-$plink
-
-
-____________________
 @er1|Hi @name, we're thrilled to extend an invitation to you, for coming to our showroom event this upcoming Saturday! Below is the location of the showroom and project site. Feel free to give me a call or send a whatapp message, 
  to let me know you are coming so that I could assist you during your visit. Looking forward to seeing you there!"
 
@@ -131,6 +123,16 @@ Your dream home awaits! Act now to make this vision a reality.
 
 Thank you, and I look forward to helping you find your perfect home
 ___________________________________________________
+@ea1|Hi @name,
+Following up with our recent conversation, I am sending you information on the Acadia project,
+ which offers fantastic investment opportunities. Please click the link below for more details.
+ $plink
+___________________________________
+@ba1|Hi @name,
+Berikut susulan daripada perbualan kita yang lepas, saya hantarkan maklumat mengenai projek Acadia,
+yang menawarkan peluang pelaburan yang hebat. Sila klik pada pautan di bawah untuk maklumat lanjut.
+$plink
+____________________
 @ea2|Hi @name, I have been trying to reach you regarding your property inquiries but have been unable to connect.
 
 Please let me know how you would like to proceed:
@@ -139,7 +141,17 @@ Reply with 1 if you would like assistance in acquiring a property.
 Reply with 0 if you are no longer interested.
 Thank you for your time, and I look forward to your response.
 $plink
+___________________________________________________
+@ba2|Salam Sejahtera Tuan,
 
+Saya berharap Tuan sihat sejahtera. Saya telah cuba menghubungi Tuan berkenaan pertanyaan hartanah anda tetapi tidak berjaya.
+
+Harap Tuan dapat maklumkan cara untuk meneruskan:
+
+Balas dengan 1 jika Tuan ingin bantuan saya dalam mendapatkan hartanah.
+Balas dengan 0 jika Tuan tidak lagi berminat.
+Terima kasih atas perhatian Tuan, dan saya berharap untuk mendengar balasan dari Tuan.
+$plink
 ___________________________________________________
 @ea3|This is the link regard to the property you inquired about.
 $plink
@@ -148,7 +160,19 @@ Please select your preferred method of communication:
 Enter 1 to use WhatsApp.
 Enter 2 to be contacted by phone.
 Enter 0 if you prefer not to be contacted.
+
+My Moible No. 01126355988
 ___________________________________________________
+@ba3|Ini adalah pautan berkaitan dengan hartanah yang anda telah bertanya
+$plink
+Sila pilih kaedah komunikasi pilihan anda:
+
+Taip 1 untuk menggunakan WhatsApp.
+Taip 2 untuk dihubungi melalui telefon.
+Taip 0 jika anda tidak mahu dihubungi.
+
+Nombor telefon saya ialah 01126355988
+____________________________________________
 @ea4|Oops! I apologize, that was the wrong link. Here's the correct one:
 $plink
 Please select your preferred method of communication:
@@ -156,3 +180,15 @@ Please select your preferred method of communication:
 Enter 1 to use WhatsApp.
 Enter 2 to be contacted by phone.
 Enter 0 if you prefer not to be contacted.
+____________________________________________
+@ba4|Maaf, silap pautan! Ini pautan yang betul
+$plink
+Sila pilih kaedah komunikasi pilihan anda:
+
+Taip 1 untuk menggunakan WhatsApp.
+Taip 2 untuk dihubungi melalui telefon.
+Taip 0 jika anda tidak mahu dihubungi.
+
+Nombor telefon saya ialah 01126355988
+_________________________________
+
