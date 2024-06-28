@@ -123,6 +123,10 @@ Your dream home awaits! Act now to make this vision a reality.
 
 Thank you, and I look forward to helping you find your perfect home
 ___________________________________________________
+@ea0|Hi @name,
+___________________________________
+@ba0|Hi @name,
+____________________
 @ea1|Hi @name,
 Following up with our recent conversation, I am sending you information on the Acadia project,
  which offers fantastic investment opportunities. Please click the link below for more details.
@@ -161,7 +165,6 @@ Enter 1 to use WhatsApp.
 Enter 2 to be contacted by phone.
 Enter 0 if you prefer not to be contacted.
 
-My Moible No. 01126355988
 ___________________________________________________
 @ba3|Ini adalah pautan berkaitan dengan hartanah yang anda telah bertanya
 $plink
@@ -171,7 +174,6 @@ Taip 1 untuk menggunakan WhatsApp.
 Taip 2 untuk dihubungi melalui telefon.
 Taip 0 jika anda tidak mahu dihubungi.
 
-Nombor telefon saya ialah 01126355988
 ____________________________________________
 @ea4|Oops! I apologize, that was the wrong link. Here's the correct one:
 $plink
@@ -191,4 +193,70 @@ Taip 0 jika anda tidak mahu dihubungi.
 
 Nombor telefon saya ialah 01126355988
 _________________________________
+
+@ea5|Location:
+Situated in Bandar Saujana Putra, Shah Alam.
+Well-connected by major highways (ELITE, SKVE, KESAS, LDP, MEX) for easy access to various destinations:
+17 minutes to IOI City Mall
+Approximately 1 hour to Kuala Lumpur city center
+Development:
+
+Developer: TCS Group
+Completion Date (estimated): 2027
+Project Type: Serviced apartment within a mixed development project
+Building Specifications:
+
+Land Area: 3.3 acres
+Ownership: Leasehold 99 years
+Number of Units: 630
+Number of Blocks: 2
+Number of Floors: 21
+Unit Options:
+
+Three unit types available:
+Type C: 595 sq. ft.
+Type B: 654 sq. ft.
+Type A: 871 sq. ft.
+Pricing:
+
+Attractive launch prices starting from RM268,000
+Current estimated prices (as of June 28, 2024):
+Type C: RM367,000
+Type B: RM381,000
+Type A: RM494,600
+Additional Benefit:
+
+Free 2 car park slots for each unit
+
+Potential investment benefits or rental yields
+base on installment RM1,300 and rental is RM2,000 the rental yield is approximately 153.85%.
+
+Current University Campus room rental is as below
+
+Room Type	No. of Pax	Registration Fee/Month (RM)	
+EXECUTIVE DELUXE	1	2500	
+EXECUTIVE STANDARD	1	2000	
+SINGLE (AIR-CONDITIONED)	1	1200	
+SINGLE	1	1000	
+TWIN (AIR-CONDITIONED)	2	700	
+TWIN	2	500	
+
+___________________________________________________
+@ea6|showroom Location
+Address: 1&3, Jln SP 1/1, Bandar Saujana Putra, 41200 Jenjarom, Selangor
+Use Waze: https://waze.com/ul/hw280z3x83 
+
+______________________________
+@ea7|Are you considering buying for personal use or investment purposes? This property is an excellent opportunity, especially for investment. With a monthly installment of just 1K, you can rent it out for 2K. This not only covers your mortgage but also provides extra income each month.
+
+Below is the university campus room rental information for your reference:
+
+Room Type	No. of Pax	Registration Fee/Month (RM)
+EXECUTIVE DELUXE	1	2500
+EXECUTIVE STANDARD	1	2000
+SINGLE (AIR-CONDITIONED)	1	1200
+SINGLE	1	1000
+TWIN (AIR-CONDITIONED)	2	700
+TWIN	2	500
+___________________________________
 
